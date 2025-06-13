@@ -30,7 +30,8 @@ O designer foi inspirado no estilo minimalista
 
 ## 🌐 Live Demo
 ## Designer
-![arq.luizafranca Banner](public/web1.png)(public/web2.png)
+![arq.luizafranca Banner](public/web1.png)
+![arq.luizafranca Banner](public/web2.png)
 
 Check out the live demo: [https://arqluizafranca.vercel.app](https://arqluizafranca.vercel.app)
 
