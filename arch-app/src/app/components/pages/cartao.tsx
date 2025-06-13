@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+
 import { Redes } from "./section/redes"
 import { Perfil } from "./section/perfil"
 import { DrawerComponent } from "./section/drawer"

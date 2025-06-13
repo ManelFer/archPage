@@ -1,17 +1,12 @@
 import {
     Drawer,
-    DrawerClose,
     DrawerContent,
     DrawerDescription,
-    DrawerFooter,
     DrawerHeader,
     DrawerTitle,
     DrawerTrigger,
 } from "@/components/ui/drawer"
 import { Redes } from "./redes";
-
-import { Button } from "@/components/ui/button";
-import { Description } from "@radix-ui/react-dialog";
 import { CarouselSection } from "./carousel";
 
 export function DrawerComponent(){
