@@ -1,4 +1,4 @@
-// components/Fundo.tsx
+
 import Image from "next/image";
 import fundo1 from "../../../public/fundo1.jpeg"; 
 import Cartao from "./pages/cartao"; 
